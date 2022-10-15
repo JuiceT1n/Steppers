@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Steppers</string>
+    <string name="StepsTakenValue">0</string>
+    <string name="LabelSteps">STEPS</string>
+    <string name="LabelReset">Reset</string>
+
+</resources>

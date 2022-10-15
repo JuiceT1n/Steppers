@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Steppers</string>
+    <string name="StepsTakenValue">0</string>
+    <string name="LabelSteps">STEPS</string>
+    <string name="LabelReset">Reset</string>
+    <string name="EditParameters">Edit Parameters</string>
+    <string name="EditWeight">Enter Your Weight Here/ kg</string>
+    <string name="EditHeight">Enter Your Height Here/ cm</string>
+    <string name="EditAge">Enter Your Age Here</string>
+    <string name="SaveParameters">Save</string>
+
+</resources>
